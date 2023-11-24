@@ -57,7 +57,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :<br>(https://github-readme-stats.vercel.app/api?username=Edwinjoseph0210)](https://github.com/Edwinjoseph0210/github-readme-stats)</h3>
-
-###
