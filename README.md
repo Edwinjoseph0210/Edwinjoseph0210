@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://t4.ftcdn.net/jpg/06/95/05/51/360_F_695055160_oBrk5j3u2rNiSwDAGdZiULAKcM3sN9ZN.jpg" alt="banner" />
 </p>
 # 💫 About Me:
