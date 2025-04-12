@@ -1,10 +1,7 @@
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/120301649?v=4" alt="profile" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Edwinjoseph0210/Edwinjoseph0210/refs/heads/main/Untitled%20design.jpg" alt="banner" />
 </p>
 
-<p align="right">
-  <img src="https://github.com/Edwinjoseph0210/Edwinjoseph0210/blob/main/assets/banner.png?raw=true" alt="banner" style="max-width: 100%; height: auto;">
-</p>
 
 # 💫 About Me:
 🚀 I’m currently working on:  <br>An AI-powered news platform called INFONOVA combines web scraping, AI summarization, text-to-speech, and image generation to redefine how people consume online news.<br><br>🤝 I’m looking to collaborate on:  <br>Creative **web projects**, **JavaScript games**, and **open-source AI tools** that solve real-world problems.<br><br>🧠 I’m currently learning:  <br>Network engineering concepts like **socket programming**, **TCP/UDP**, **NS2 simulation**, and **protocol debugging** for my academic research.<br><br>💬 Ask me about:  <br>How to build a full-stack project from scratch, Git/GitHub workflows, network tools like `ifconfig`, `nslookup`, or even setting up your first AI pipeline.<br><br>🌱 I'm expanding into:  <br>Machine learning, natural language processing (NLP), and cloud deployment using **Docker + GitHub Actions**.<br><br>🛠️ Tools & Technologies I Use:  <br>`HTML`, `CSS`, `JavaScript`, `jQuery`, `Node.js`, `Python`, `Linux`, `VSCode`, `Git`, `Figma`, `NS2`, `Wireshark`<br><br>⚡ Fun fact:  <br>Built a chess game using just **HTML/CSS/JS** to understand DOM manipulation better — and ended up having a blast!<br><br>🎯 2025 Goals:  <br>Contribute to open-source regularly, complete an entire AI project on GitHub, and help others by creating easy-to-understand tech content.<br>
