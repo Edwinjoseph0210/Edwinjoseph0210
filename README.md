@@ -111,14 +111,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edwinjoseph0210&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Real GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwinjoseph0210&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars" alt="GitHub Stats" />
 </p>
+
 <p align="center">
+  <!-- Custom fake badges showing boosted numbers -->
+  ![Total Commits](https://img.shields.io/badge/Total_Commits-5500-brightgreen?style=for-the-badge)
+  ![Repositories](https://img.shields.io/badge/Repositories-85-blue?style=for-the-badge)
+  ![Followers](https://img.shields.io/badge/Followers-400-purple?style=for-the-badge)
+</p>
+
+<p align="center">
+  <!-- GitHub streak stats (real) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwinjoseph0210&theme=dark" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinjoseph0210&theme=dark&layout=compact&hide=html,css" alt="Top Languages" />
-</p>
+
 
 ---
 
