@@ -128,23 +128,6 @@
 </p>
 
 <p align="center">
-  <!-- Grouped badges in a table to simulate a box -->
-  <table align="center" style="background-color:#1e1e2f; border-radius: 12px; padding: 10px;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Total_Commits-5500-brightgreen?style=for-the-badge" alt="Total Commits" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Repositories-85-blue?style=for-the-badge" alt="Repositories" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Followers-400-purple?style=for-the-badge" alt="Followers" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
   <!-- GitHub streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwinjoseph0210&theme=dark" alt="GitHub Streak" />
 </p>
