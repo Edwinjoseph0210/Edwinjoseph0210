@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/5YgvUvKvDiQVUdZxLX/giphy.gif](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)" alt="Cyberpunk Coding City" width="80%" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="Cyberpunk Coding City" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Edwin Joseph</h1>
