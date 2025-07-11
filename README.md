@@ -1,62 +1,59 @@
+<!-- 🎥 Centered YouTube Video -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Edwinjoseph0210/Edwinjoseph0210/refs/heads/main/Untitled%20design.jpg" alt="banner" width="100%" />
+  <a href="https://www.youtube.com/watch?v=VFIuIjswMKM" target="_blank">
+    <img src="https://img.youtube.com/vi/VFIuIjswMKM/hqdefault.jpg" alt="INFONOVA Preview" width="100%" style="border-radius: 12px;" />
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://edwinjoseph0210.github.io/" target="blank">Edwin Joseph</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://edwinjoseph0210.github.io/" target="_blank">Edwin Joseph</a></h1>
 <h3 align="center">AI Enthusiast • Full Stack Developer • Network Researcher from Kerala 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edwinjoseph0210&label=Profile%20views&color=0e75b6&style=flat" alt="Edwinjoseph0210" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/edwinjoseph0210" target="blank">
-    <img src="https://img.shields.io/twitter/follow/edwinjoseph0210?logo=twitter&style=for-the-badge" alt="twitter followers" />
+  <img src="https://komarev.com/ghpvc/?username=Edwinjoseph0210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/edwinjoseph0210" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/edwinjoseph0210?logo=twitter&style=flat-square" alt="Twitter Follow" />
   </a>
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img align="right" height="250" width="350" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 </a>
 
 ---
 
-### 🔭 About Me
+### 👨‍💻 About Me
 
 <ul>
-  <li>🚀 Currently building <strong><a href="https://github.com/Edwinjoseph0210/INFONOVA" target="blank">INFONOVA</a></strong> — AI-powered news with summarization, TTS & image generation.</li>
-  <li>📱 Learning: ML, NLP, SwiftUI, cloud deployment with GitHub Actions & Docker.</li>
-  <li>🎯 Available for freelance full-stack & AI projects.</li>
-  <li>💡 Ask me about: full-stack apps, Git, AI pipelines, sockets, NS2.</li>
-  <li>📬 Reach me at: <strong><a href="mailto:edwinjoseph0210@example.com">edwinjoseph0210@example.com</a></strong></li>
-  <li>📄 <a href="https://github.com/Edwinjoseph0210/Edwinjoseph0210/blob/main/EdwinJoseph_Resume.pdf" target="blank">View My Resume</a></li>
+  <li>🚀 Working on <strong><a href="https://github.com/Edwinjoseph0210/INFONOVA" target="_blank">INFONOVA</a></strong> — an AI-powered news platform.</li>
+  <li>🌱 Learning: ML, NLP, SwiftUI, Docker, GitHub Actions, NS2 Simulations.</li>
+  <li>🤝 Available for freelance & collaborations in full-stack and AI domains.</li>
+  <li>💬 Ask me about: GitHub, React, Python, AI tools, or networking with sockets.</li>
+  <li>📫 Reach me at: <a href="mailto:edwinjoseph0210@example.com"><strong>edwinjoseph0210@example.com</strong></a></li>
+  <li>📄 <a href="https://github.com/Edwinjoseph0210/Edwinjoseph0210/blob/main/EdwinJoseph_Resume.pdf" target="_blank">Download My Resume</a></li>
 </ul>
 
 ---
 
-### 🎥 Featured Project Video
+### 💻 Tech Stack
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VFIuIjswMKM">
-    <img src="https://img.youtube.com/vi/VFIuIjswMKM/0.jpg" alt="Watch the INFONOVA video" width="80%" />
-  </a>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-<!-- Add your tech stack badges here (you already have this, you can keep the same list) -->
-<!-- Keep your existing badges section unchanged -->
-
-<!-- You can paste your existing <p align="center"> ... </p> tech stack code block here -->
-
----
-
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edwinjoseph0210&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwinjoseph0210&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -65,7 +62,7 @@
 
 ---
 
-## 🌐 Connect with Me
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/edwinjoseph0210"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
@@ -78,7 +75,7 @@
 
 ---
 
-## 📝 Blog Posts
+### ✍️ Blog Posts
 
 <ul>
   <li><a href="https://dev.to/edwinjoseph0210/how-i-built-a-sticky-note-ai-extension">How I Built a Sticky Note AI Chrome Extension</a></li>
@@ -88,5 +85,6 @@
 
 ---
 
-<p>Credit: <a href="https://github.com/Edwinjoseph0210">Edwin Joseph</a></p>
-<p>Last Edited on: 11/07/2025</p>
+<p align="center">
+  <sub>Credit: <a href="https://github.com/Edwinjoseph0210">Edwin Joseph</a> • Last Edited: 11 July 2025</sub>
+</p>
