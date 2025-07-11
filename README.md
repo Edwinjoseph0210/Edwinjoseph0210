@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifdb.com/gif/programming-monkey-c-typing-codes-xtb3eo2hc38nspnp.gif" alt="Coding GIF" width="50%" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/typing.gif" alt="Typing" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://edwinjoseph0210.github.io/" target="_blank">Edwin Joseph</a></h1>
@@ -59,20 +59,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/edwinjoseph0210"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
   <a href="https://github.com/Edwinjoseph0210"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" /></a>
-  <a href="https://dev.to/edwinjoseph0210"><img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png" /></a>
   <a href="https://instagram.com/edwinjoseph0210"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" /></a>
   <a href="https://twitter.com/edwinjoseph0210"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" /></a>
 </p>
-
----
-
-### ✍️ Blog Posts
-
-<ul>
-  <li><a href="https://dev.to/edwinjoseph0210/how-i-built-a-sticky-note-ai-extension">How I Built a Sticky Note AI Chrome Extension</a></li>
-  <li><a href="https://dev.to/edwinjoseph0210/understanding-network-sockets-in-python">Understanding Network Sockets in Python</a></li>
-  <li><a href="https://dev.to/edwinjoseph0210/deploy-your-ml-model-to-cloud-in-3-easy-steps">Deploy Your ML Model to Cloud in 3 Steps</a></li>
-</ul>
 
 ---
 
