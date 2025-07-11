@@ -1,8 +1,5 @@
-<!-- 🎥 Centered YouTube Video -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VFIuIjswMKM" target="_blank">
-    <img src="https://img.youtube.com/vi/VFIuIjswMKM/hqdefault.jpg" alt="INFONOVA Preview" width="100%" style="border-radius: 12px;" />
-  </a>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Typing Boy" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://edwinjoseph0210.github.io/" target="_blank">Edwin Joseph</a></h1>
@@ -14,10 +11,6 @@
     <img src="https://img.shields.io/twitter/follow/edwinjoseph0210?logo=twitter&style=flat-square" alt="Twitter Follow" />
   </a>
 </p>
-
-<a target="_blank" align="center">
-  <img align="right" height="250" width="350" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</a>
 
 ---
 
