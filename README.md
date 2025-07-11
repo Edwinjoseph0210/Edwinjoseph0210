@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://vsgif.com/gif/3556745](https://media.giphy.com/media/5YgvUvKvDiQVUdZxLX/giphy.gif)" alt="Cyberpunk Coding City" width="60%" />
+  <img src="https://media.giphy.com/media/5YgvUvKvDiQVUdZxLX/giphy.gif" alt="Cyberpunk Coding City" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Edwin Joseph</h1>
