@@ -1,60 +1,62 @@
+<!-- Centered Coding GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/xx/xx/xx/xxxxxxxxxxxx.gif" alt="Coding Animation" width="50%" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" alt="Coding GIF" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://edwinjoseph0210.github.io/" target="_blank">Edwin Joseph</a></h1>
-<h3 align="center">AI Enthusiast • Full Stack Developer • Network Researcher from Kerala 🇮🇳</h3>
+<!-- Name and Title -->
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Saurabh</a></h1>
+<h3 align="center">A passionate Mobile App developer from Pune, India 🇮🇳</h3>
 
+<!-- Profile Views and Twitter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edwinjoseph0210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/edwinjoseph0210" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/edwinjoseph0210?logo=twitter&style=flat-square" alt="Twitter Follow" />
+  <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/100rabhcsmc" target="blank">
+    <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
----
-
-### 👨‍💻 About Me
-
+<!-- About Me -->
 <ul>
-  <li>🚀 Building <strong><a href="https://github.com/Edwinjoseph0210/INFONOVA" target="_blank">INFONOVA</a></strong> — AI-powered news platform.</li>
-  <li>🌱 Learning: ML, NLP, SwiftUI, Docker, GitHub Actions, NS2 simulations.</li>
-  <li>🤝 Available for freelance & AI/full-stack collaborations.</li>
-  <li>💬 Ask me about: GitHub, React, Python, AI pipelines, networking.</li>
-  <li>📫 Reach me: <a href="mailto:edwinjoseph0210@example.com"><strong>edwinjoseph0210@example.com</strong></a></li>
-  <li>📄 <a href="https://github.com/Edwinjoseph0210/Edwinjoseph0210/blob/main/EdwinJoseph_Resume.pdf" target="_blank">Download My Resume</a></li>
+  <li>🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a></li>
+  <li>🌱 I’m currently working on Mobile App development using React Native</li>
+  <li>🤝 I’m available for freelancing</li>
+  <li>🌱 I’m learning Swift &amp;&amp; SwiftUI: <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a></li>
+  <li>💬 Ask me about <strong>React.js &amp; React Native</strong></li>
+  <li>📫 Reach me at: <strong><a href="mailto:saurabhchavan052@gmail.com">saurabhchavan052@gmail.com</a></strong></li>
+  <li>📄 Check my <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a></li>
 </ul>
 
----
-
-### 💻 Tech Stack
-
+<!-- Connect with Me -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" />
+  Connect with me 🤝
+</h3>
 <p align="center">
-  <!-- your tech badges here -->
+  <a href="https://www.linkedin.com/in/saurabhmchavan/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
+  </a>
+  <a href="https://github.com/100rabhcsmc" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" />
+  </a>
+  <a href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" />
+  </a>
+  <a href="https://instagram.com/100rabhch" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" />
+  </a>
+  <a href="https://twitter.com/100rabhcsmc" target="_blank">
+    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw" target="_blank">
+    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" />
+  </a>
+  <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank">
+    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" />
+  </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edwinjoseph0210&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinjoseph0210&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/edwinjoseph0210"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
-  <a href="https://github.com/Edwinjoseph0210"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" /></a>
-  <a href="https://instagram.com/edwinjoseph0210"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" /></a>
-  <a href="https://twitter.com/edwinjoseph0210"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" /></a>
-</p>
-
----
-
-<p align="center"><sub>Credit: <a href="https://github.com/Edwinjoseph0210">Edwin Joseph</a> • Last Edited: 11 July 2025</sub></p>
+<!-- Footer -->
+<hr>
+<p align="center">Credit: <a href="https://github.com/100rabhcsmc">Saurabh Chavan</a></p>
+<p align="center">Last Edited on: 11/07/2025</p>
