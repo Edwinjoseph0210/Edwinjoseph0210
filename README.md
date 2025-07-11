@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Typing Boy" width="50%" />
+  <img src="https://gifdb.com/gif/programming-monkey-c-typing-codes-xtb3eo2hc38nspnp.gif" alt="Coding GIF" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://edwinjoseph0210.github.io/" target="_blank">Edwin Joseph</a></h1>
@@ -48,7 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Edwinjoseph0210&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwinjoseph0210&theme=dark" alt="GitHub Streak" />
 </p>
@@ -63,7 +62,6 @@
   <a href="https://dev.to/edwinjoseph0210"><img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png" /></a>
   <a href="https://instagram.com/edwinjoseph0210"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" /></a>
   <a href="https://twitter.com/edwinjoseph0210"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" /></a>
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID"><img src="https://img.icons8.com/doodle/1x/youtube--v2.png" /></a>
 </p>
 
 ---
