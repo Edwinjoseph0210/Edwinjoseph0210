@@ -2,7 +2,7 @@
   <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="Cyberpunk Coding City" width="80%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00FFFF">George K Mathews</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00FFFF">Edwin Joseph</span></h1>
 <h3 align="center"><span style="color:#FF69B4">AI Enthusiast</span> • <span style="color:#00FF00">Full Stack Developer</span> • <span style="color:#FFD700">Network Researcher</span> from Kerala, India 🇮🇳</h3>
 
 <p align="center">
